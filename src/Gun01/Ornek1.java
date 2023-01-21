@@ -7,5 +7,7 @@ public class Ornek1 {
         System.out.println("merhaba dünya2");
         System.out.println("merhaba dünya herhangi bir sayı");
 
+        System.out.println("merhaba dünya 3");
+
     }
 }
