@@ -5,6 +5,7 @@ public class Ornek1 {
         System.out.println("merhaba dünya");
 
         System.out.println("merhaba dünya2");
+        System.out.println("merhaba dünya herhangi bir sayı");
 
     }
 }
